@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Projects/owl",
+			"folder_exclude_patterns": ["vendor",".vscode"],
+			"file_exclude_patterns": ["*lock","*.phar"]
+		}
+	]
+}

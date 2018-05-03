@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+public function ${1}(){
+	return ${2}
+}
+]]></content>
+<tabTrigger>met</tabTrigger>
+<description>PHP method</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>
