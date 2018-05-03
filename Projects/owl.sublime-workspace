@@ -12,10 +12,42 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 356.0,
-		"last_filter": "project ed",
+		"height": 250.0,
+		"last_filter": "gittgu",
 		"selected_items":
 		[
+			[
+				"gittgu",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"ui s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Sublime PHPUnit: Run This Test Method"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"project ed",
 				"Project Manager: Edit Project"
@@ -29,10 +61,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"setting",
 				"Preferences: Settings"
 			],
@@ -43,17 +71,9 @@
 			[
 				"toggle",
 				"View: Toggle Status Bar"
-			],
-			[
-				"ui",
-				"UI: Select Theme"
-			],
-			[
-				"ins",
-				"Install Package Control"
 			]
 		],
-		"width": 501.0
+		"width": 474.0
 	},
 	"console":
 	{
@@ -74,6 +94,7 @@
 	},
 	"file_history":
 	[
+		"/home/redaced/Projects/owl/app/Helpers/TaskHelper.php",
 		"/home/redaced/.config/sublime-text-3/Packages/User/Projects/owl.sublime-project",
 		"/home/redaced/Projects/owl/README.md",
 		"/home/redaced/Projects/owl/app/Http/Controllers/Api/TaskController.php",
@@ -82,7 +103,7 @@
 	],
 	"find":
 	{
-		"height": 52.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -96,6 +117,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			";\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -157,6 +179,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"taskcon",
+				"app/Http/Controllers/Api/TaskController.php"
+			],
+			[
+				"task",
+				"app/Helpers/TaskHelper.php"
+			],
+			[
+				"tas",
+				"app/Helpers/TaskHelper.php"
+			],
+			[
+				"tasl",
+				"app/Helpers/TaskHelper.php"
+			],
 			[
 				"taskco",
 				"app/Http/Controllers/Api/TaskController.php"
